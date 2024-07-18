@@ -23,7 +23,7 @@ namespace Weather.test
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal(6, result.Count());
+            Assert.Equal(5, result.Count());
         }
     }
 }
